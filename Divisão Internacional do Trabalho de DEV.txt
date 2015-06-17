@@ -1,0 +1,81 @@
+#######################################################################################
+#                                  Iron/Galacticus
+#######################################################################################
+# HUD
+#    Seus estoques atuais e dinheiro
+#    Feed de notícias
+#    Tempo in-game(um dia do jogo com opção de fast forward)
+#
+# Calculos
+#     Progressão dos preços de upgrades talvez ingredientes
+#     Venda de churros (chance, lucro)
+#          Determinar qual recheio será comprado
+#          Eleger recheio favorito do dia
+#          Perda de popularidade caso falte algum ingrediente
+#     Qualidade
+#     Popularidade(influencia nas vendas)
+#     Crescimento das outras empresas
+#     Gastos diários(adicionar quando você compra outras empresas, etc)
+#     Possibilidade de eventos aleatórios ocorrem e suas consequências
+#
+#######################################################################################
+#                                  Iron/Galacticus
+#######################################################################################
+
+
+
+
+
+#######################################################################################
+#                                     Andréia
+#######################################################################################
+# Menus
+#    Status
+#          Display do dia atual e dia anterior
+#    Configurações
+#          Som
+#          Sair do jogo
+#          Deletar save
+#    Ranking com as info das outras empresas e possibilidade de comprar
+#
+#    Sistema de Rank
+#          Falência
+#          Transição de nível com mudança do cenário
+#
+#
+#    Loja/Upgrades
+#     Compras e vendas alterando dinheiro
+#     Possibilidade de comprar ingredientes com escolha da qualidade e quantidade
+#          Display do total a pagar
+#     Mudança nos estoques atuais
+#     Upgrades permanentes de estoque, recheios etc
+#     Aumentar Ranking(próximo nível, transição de cenário)
+#
+#######################################################################################
+#                                    Andréia
+#######################################################################################
+
+
+
+
+
+#######################################################################################
+#                                    Undefined
+#######################################################################################
+
+Animações
+    Movimento dos transeuntes
+    Fazer eles pararem na barraquinha quando forem comprar churros
+    geracao aleatoria de personagens
+
+Sons
+    BGM
+    Efeitos sonoros -- colocar direto nos objetos
+
+
+Autosave do jogo -- no fim do dia e quando comecar o dia
+
+
+extras
+“Tutorial” – alguns dias(talvez o primeiro ranking?) em que é apresentado para o jogador como jogar. 
+(Extra)Quem sabe liberar alguns easter eggs/eventos aleatórios dependendo de alguns upgrades?
